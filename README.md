@@ -4,18 +4,32 @@ This example project demonstrates basic use of the delegate pattern.
 
 ## Getting Started
 
+#### Pre-Requisites
+
+- Install [Python](https://www.python.org/downloads/)
+- Install [Git](https://git-scm.com/downloads)
+
 #### Clone this Repository
 
+From the directory where you want to clone this repository:
+
 ```
-$ cd <directory where you want to clone this repository>
 $ git clone https://github.com/dsoike/DelegatePatternExample.git
+```
+
+#### Install the Dependencies
+
+From the `DelegatePatternExample` directory:
+
+```
+$ pip install requirements.txt
 ```
 
 #### Run the Example
 
+From the `DelegatePatternExample` directory:
+
 ```
-$ cd ~/DelegatePatternExample
-$ pip install requirements.txt
 $ python run_example.py
 ```
 
